@@ -1,0 +1,134 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>BoreNova Systems</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+            color: #333;
+        }
+        header {
+            background-color: #003366; /* Deep blue for USA pride */
+            color: white;
+            padding: 20px;
+            text-align: center;
+        }
+        .hero {
+            background-color: #cc0000; /* Red for USA pride */
+            color: white;
+            padding: 60px 20px;
+            text-align: center;
+        }
+        .hero h1 {
+            font-size: 2.5em;
+            margin: 0;
+        }
+        .hero p {
+            font-size: 1.2em;
+        }
+        section {
+            padding: 40px 20px;
+            max-width: 1200px;
+            margin: 0 auto;
+        }
+        .about, .goals, .product {
+            background-color: white;
+            margin-bottom: 20px;
+            border-radius: 8px;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+        }
+        h2 {
+            color: #003366;
+        }
+        ul {
+            list-style-type: none;
+            padding: 0;
+        }
+        ul li {
+            margin: 10px 0;
+            font-size: 1.1em;
+        }
+        .cta {
+            text-align: center;
+            padding: 40px 20px;
+            background-color: #006600; /* Green for eco-friendly */
+            color: white;
+        }
+        .cta button {
+            background-color: #cc0000;
+            color: white;
+            border: none;
+            padding: 15px 30px;
+            font-size: 1.2em;
+            cursor: pointer;
+            border-radius: 5px;
+        }
+        footer {
+            background-color: #003366;
+            color: white;
+            text-align: center;
+            padding: 20px;
+            font-size: 0.9em;
+        }
+        /* USA pride elements */
+        .usa-flag {
+            background: linear-gradient(to right, red 33%, white 33%, white 66%, blue 66%);
+            height: 5px;
+            margin: 10px 0;
+        }
+    </style>
+</head>
+<body>
+
+    <header>
+        <h1>BoreNova Systems</h1>
+        <p>Veteran Owned and Operated</p>
+        <div class="usa-flag"></div>
+    </header>
+
+    <section class="hero">
+        <h1>Bringing Innovation to a Stagnant Market</h1>
+        <p>Empowering Independence for Every USA Resident</p>
+    </section>
+
+    <section class="about">
+        <h2>About Us</h2>
+        <p>BoreNova Systems is a veteran-owned startup dedicated to nationwide technology innovation. We're proud to be made and manufactured in the USA, with a focus on AI technology and eco-friendly solutions that reduce carbon emissions nationwide.</p>
+        <p>Our veteran training program ensures that our team embodies integrity, freedom, and independence in everything we do.</p>
+    </section>
+
+    <section class="goals">
+        <h2>Our Goals</h2>
+        <ul>
+            <li>Residential Freedom and Lower Bills for All</li>
+            <li>Reduce Carbon Emissions Nationwide</li>
+            <li>Achieve Carbon Negative Status in Less Than 6 Months</li>
+            <li>Complete Residential Carbon Negative Solutions</li>
+            <li>Innovation, Integrity, Freedom, and Independence</li>
+            <li>Extend Impact to the USA and Possibly the World</li>
+        </ul>
+    </section>
+
+    <section class="product">
+        <h2>Our Product</h2>
+        <p>Currently in development, our groundbreaking product promises to revolutionize the market with AI-driven, eco-friendly technology. Stay tuned for more ground-shattering news to come.</p>
+    </section>
+
+    <section class="cta">
+        <h2>Stay Updated</h2>
+        <p>Sign up for our newsletter to be the first to know about our innovations.</p>
+        <button>Sign Up Now</button>
+    </section>
+
+    <footer>
+        <p>&copy; 2025 BoreNova Systems. All Rights Reserved.</p>
+        <p>Proudly Made in the USA | Committed to Eco-Friendly Innovation</p>
+    </footer>
+
+</body>
+</html>
